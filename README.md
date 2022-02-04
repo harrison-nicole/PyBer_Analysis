@@ -13,7 +13,7 @@ The results of this analysis demonstrate the following key findings:
 - Rural cities had the lowest numbers of total rides and total drivers. Suburban cities was in the middle and urban cities had the most rides, drivers, and fares. 
 - The average fare per ride was highest in rural areas and lowest in urban areas. 
 - The average fare per driver was also highest in rural areas and lowest in urban areas. 
-![](Analysis/dataframe summary.png)
+![](Analysis/dataframe_summary.png)
 
 
 ## Summary 
